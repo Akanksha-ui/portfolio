@@ -84,7 +84,7 @@ span{
   }
   
   .right{
-    font-size: 2rem;
+    font-size: 1.9rem;
     margin-right: 5rem;
   }
 
@@ -268,11 +268,11 @@ footer > p {
        text-align: center;
     }
 
-    /* .left {
+    .left {
         font-size: 2rem;
     }
 
-    .right {
+     /*.right {
         font-size: 1rem;
     } */
 
@@ -302,10 +302,10 @@ footer > p {
           text-align: center;
       }
 
-      /* .left {
+      .left {
         font-size: 2rem;
     }
-
+ /*
     .right {
         font-size: 1rem;
     } */
